@@ -1,13 +1,8 @@
-/* Body y color basico */
-/* Tamaño y tipo de letra */
-/* Menu */
-/* Paleta de colores:
-http://www.paletton.com/#uid=1000u0k00w0000000SG01pV0hkj
-*/
 body {
   text-align: justify;
 }
 footer {
+  margin-top: 5px;
   color: #000;
   background-color: #CECECE;
 }
@@ -48,12 +43,6 @@ footer {
   height: 100%;
   text-decoration: none;
 }
-.social_bookmarks .iconrss {
-  background: #a4a4a4 url(//lh6.googleusercontent.com/-s8sIx3OX2WI/U4vC1nmgr0I/AAAAAAAALK4/W3Z3qXMwrCg/s114/icon-rss.png) top left no-repeat;
-}
-.social_bookmarks .iconrssmail {
-  background: #bdbdbd url(//lh5.googleusercontent.com/-H4iUybdCAyU/U4vC1yQWu1I/AAAAAAAALLE/fTpR7eN4cIw/s114/icon-rssmail.png) top left no-repeat;
-}
 .social_bookmarks .icontwitter {
   background: #d8d8d8 url(//lh6.googleusercontent.com/-4TshwJW7hIE/U4vC2JM25AI/AAAAAAAALLI/tcIkpheXrYU/s114/icon-twitter.png) top left no-repeat;
 }
@@ -74,14 +63,6 @@ footer {
 .social_bookmarks .icongplus:hover {
   background-position: center -57px;
   background-color: #de5a49;
-}
-.social_bookmarks .iconrss:hover {
-  background-position: center -57px;
-  background-color: #ff6600;
-}
-.social_bookmarks .iconrssmail:hover {
-  background-position: center -57px;
-  background-color: #FFDE00;
 }
 .social_bookmarks li:hover a {
   background: transparent url(//lh4.googleusercontent.com/-XNviZ_JqvyU/U4vDMDFAX8I/AAAAAAAALLk/E4VIJr1onlo/s57/icon-social-reflect.png) no-repeat;
